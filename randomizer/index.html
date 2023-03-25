@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+
+  <body>
+    <div id="user-interface">
+      <form id="randomizer-form">
+        <h2 id="header"></h2>
+        <p id="number-of-learners"></p>
+        <input
+          type="radio"
+          name="sortType"
+          id="numberOf"
+          value="numberOfGroups"
+          checked="true"
+        />
+        <label for="numberOf">number of groups</label>
+        <br />
+        <input type="radio" id="sizeOf" name="sortType" value="groupSize" />
+        <label for="sizeOf">group size</label>
+        <br />
+        <br />
+
+        <input type="number" value="0" name="number" min="0" />
+        <input type="button" name="generate" value="generate" />
+        <input type="button" name="download" value="download" />
+        <input type="button" name="clipboard" value="Copy MD to clipboard" />
+      </form>
+      <div id="groups"></div>
+    </div>
+
+    <script id="data">
+      let info = {};
+      let learners = [];
+      let groups = [];
+      const href = new URL(window.location.href);
+    </script>
+
+    <script id="logic">
+      /**
+       * shuffles an array
+       * @param {Array} arr - an array of anything
+       * @returns {Array} a new array with shuffled items
+       */
+      const shuffle = (arr) => {
+        // inspired by https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+        const shuffled = [...arr];
+        let currentIndex = shuffled.length,
+          temporaryValue,
+          randomIndex;
+        while (0 !== currentIndex) {
+          randomIndex = Math.floor(Math.random() * currentIndex);
+          currentIndex -= 1;
+          temporaryValue = shuffled[currentIndex];
+          shuffled[currentIndex] = shuffled[randomIndex];
+          shuffled[randomIndex] = temporaryValue;
+        }
+        return shuffled;
+      };
+
+      /**
+       * divides an array of items into an array of arrays
+       *  the number of arrays is determined by the number of learners and the groupSize
+       *  if there are extra learners they will be divided between the groups
+       * @param {learner[]} learners - an array of learner objects
+       *  { name:"their name", user: "githubUser Name" }
+       * @param {number} groupSize - how many people to have in each group
+       * @returns {learner[]} an array containing groupSize arrays of learners
+       */
+      const byGroupSize = (learners, groupSize) => {
+        learners = shuffle(learners.map((stud) => stud));
+        const groups = [];
+        while (learners.length >= groupSize) {
+          groups.push(learners.splice(0, groupSize));
+        }
+        if (learners.length > 0) {
+          let toPad = 0;
+          while (learners.length !== 0) {
+            groups[toPad].push(learners.pop());
+            toPad++;
+            if (toPad >= groups.length) {
+              toPad = 0;
+            }
+          }
+        }
+        return groups;
+      };
+
+      /**
+       * divides an array of items into an array of numOfGroups arrays
+       *  it does it's best to make all groups equal
+       *  if there are extra learners they will be divided between the groups
+       * @param {learner[]} learners - an array of learner objects
+       *  { name:"their name", user: "githubUser Name" }
+       * @param {number} numOfGroups - how many groups to create
+       * @returns {learner[]} an array containing numOfGroups arrays of learners
+       */
+      const byNumberOfGroups = (learners, numOfGroups) => {
+        learners = shuffle(learners.map((stud) => stud));
+        const groups = [];
+        for (let i = 0; i < numOfGroups; i++) {
+          groups.push([]);
+        }
+        let groupToJoin = 0;
+        while (learners.length !== 0) {
+          groups[groupToJoin].push(learners.pop());
+          groupToJoin++;
+          if (groupToJoin >= groups.length) {
+            groupToJoin = 0;
+          }
+        }
+        return groups;
+      };
+
+      /**
+       * maps the groups data into an encoded params string
+       *  [ [ {name:'learner name', user: 'github-name'}, ...], ...]
+       *  'user+user+...&user+user+...'
+       */
+      const groupsToParams = (groups) =>
+        encodeURIComponent(
+          groups
+            .map((group) => group.map((learner) => learner.user).join(','))
+            .join('+'),
+        );
+
+      /**
+       * the inverse of groupsToParam
+       */
+      const paramsToGroups = (params) => {
+        const decodedParams = decodeURIComponent(params);
+        const groupStrings = decodedParams.split('+');
+        const userArrays = groupStrings.map((groupString) =>
+          groupString.split(','),
+        );
+        const parsedGroups = userArrays.map((users) =>
+          users.map((user) =>
+            learners.find((learner) => learner.user === user),
+          ),
+        );
+        return parsedGroups;
+      };
+    </script>
+
+    <script id="components">
+      const renderStudent = (learner) =>
+        learner.user
+          ? `<li><a href="https://github.com/${learner.user}" target="_blank">${learner.name}</a></li>`
+          : `<li>${learner.name}</li>`;
+
+      const renderGroup = (group, index) => `
+        <div class="group">
+          <h3>Group ${index + 1}</h3>
+          <ul>
+            ${group.map((learner) => renderStudent(learner)).join('')}
+          </ul>
+        </div>
+      `;
+
+      /**
+       * renders a groups array into a list of names linking to github accounts
+       */
+      const renderGroups = (groups) =>
+        groups.map((group, index) => renderGroup(group, index)).join('');
+    </script>
+
+    <script id="procedures">
+      /**
+       * sets the URL parameter
+       */
+      const setParams = (groups, sortType, numberOf) => {
+        const groupsParam = groupsToParams(groups);
+
+        // https://stackoverflow.com/a/56777426
+        const params = `number=${numberOf}&sortType=${sortType}&groups=${groupsParam}`;
+
+        window.history.replaceState(
+          {},
+          '',
+          `${href.origin + href.pathname}?${params}`,
+        );
+      };
+    </script>
+
+    <script id="handlers">
+      /**
+       * divides the learners into groups:
+       * - renders the groups
+       * - reassigns the global `groups` variable
+       * - updates the URL parameters
+       */
+      const randomizeHandler = (groupsEl) => (event) => {
+        const target = event.target;
+        if (target.name !== 'generate') {
+          return;
+        }
+
+        const numberOf = Number(target.form.number.value);
+        const sortType = target.form.sortType.value;
+
+        const newGroups =
+          sortType === 'numberOfGroups'
+            ? byNumberOfGroups(learners, numberOf)
+            : byGroupSize(learners, numberOf);
+
+        groupsEl.innerHTML = renderGroups(newGroups);
+
+        groups = newGroups;
+
+        setParams(groups, sortType, numberOf);
+      };
+
+      /**
+       * Copies the groups as Markdown to the clipboard.
+       */
+      const copyGroups = (event) => {
+        const target = event.target;
+        if (target.name !== 'clipboard') {
+          return;
+        }
+
+        const number = Number(target.form.number.value);
+        const sortType = target.form.sortType.value;
+        const subTitle =
+          sortType === 'groupSize' ? `groups of ${number}` : `${number} groups`;
+
+        const textToCopy =
+          `# ${info.name.split('-').join(' ')}: ${subTitle}\n\n` +
+          groups
+            .map(
+              (group, index) =>
+                `## group ${index + 1}\n\n${group
+                  .map((member) => `- ${member.name}\n`)
+                  .join('')}\n`,
+            )
+            .join('');
+
+        navigator.clipboard.writeText(textToCopy);
+
+        setTimeout(() => alert('the groups are copied'), 0);
+      };
+
+      /**
+       * generates a .txt file to download the current groups
+       */
+      const downloadGroups = (event) => {
+        const target = event.target;
+        if (target.name !== 'download') {
+          return;
+        }
+
+        const number = Number(target.form.number.value);
+        const sortType = target.form.sortType.value;
+
+        const subTitle =
+          sortType === 'groupSize' ? `groups of ${number}` : `${number} groups`;
+
+        const filename = `${info.name}--${subTitle.replaceAll(' ', '-')}.md`;
+
+        const groupsText =
+          `# ${info.name.split('-').join(' ')}: ${subTitle}\n\n` +
+          groups
+            .map(
+              (group, index) =>
+                `## group ${index + 1}\n\n${group
+                  .map((member) => `- ${member.name}\n`)
+                  .join('')}\n`,
+            )
+            .join('');
+
+        const element = document.createElement('a');
+        element.setAttribute('download', filename);
+        element.style.display = 'none';
+        element.setAttribute(
+          'href',
+          'data:text/plain;charset=utf-8,' + encodeURIComponent(groupsText),
+        );
+
+        document.body.appendChild(element);
+        element.click();
+        document.body.removeChild(element);
+      };
+    </script>
+
+    <script type="module" id="init">
+      import { load } from './js-yaml.js';
+
+      (async () => {
+        try {
+          const [learnersYaml, orgYaml] = await Promise.all([
+            fetch('../admin/learners.yml').then((res) => res.text()),
+            fetch('../admin/org.yml').then((res) => res.text()),
+          ]);
+
+          learners = load(learnersYaml);
+          info = load(orgYaml);
+
+          // -- title & header --
+          const pageName = info.name + ' randomizer';
+          document.title = pageName;
+          document.getElementById('header').innerHTML = pageName;
+
+          // -- render the number of learners --
+          document.getElementById(
+            'number-of-learners',
+          ).innerHTML = `there are ${learners.length} learners:`;
+
+          // -- make sure there are learners in the class before going on --
+          if (learners.length === 0) {
+            document.getElementById('groups').innerHTML =
+              '<p>no learners in this class</p>';
+            form.number.setAttribute('max', 0);
+            return;
+          }
+
+          // -- initialize form --
+          const form = document.getElementById('randomizer-form');
+
+          // form values
+          form.number.setAttribute('max', learners.length);
+          form.number.setAttribute('min', 1);
+          form.number.setAttribute(
+            'value',
+            href.searchParams.get('number') || 1,
+          );
+
+          const sortType = href.searchParams.get('sortType');
+          if (sortType === 'numberOfGroups') {
+            document.getElementById('numberOf').checked = true;
+          } else if (sortType === 'groupSize') {
+            document.getElementById('sizeOf').checked = true;
+          }
+
+          // form listeners
+          const groupsEl = document.getElementById('groups');
+          const generateGroups = randomizeHandler(groupsEl);
+          form.addEventListener('click', generateGroups);
+          form.addEventListener('click', downloadGroups);
+          form.addEventListener('click', copyGroups);
+
+          // -- initialize groups --
+
+          const serializedGroups = href.searchParams.get('groups');
+          groups = serializedGroups
+            ? paramsToGroups(serializedGroups)
+            : [learners];
+
+          // -- render initial grouping --
+          groupsEl.innerHTML = renderGroups(groups);
+        } catch (err) {
+          console.error(err);
+        }
+      })();
+    </script>
+  </body>
+</html>

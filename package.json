@@ -1,0 +1,37 @@
+{
+  "name": "school-as-code",
+  "version": "1.0.0",
+  "description": "this is the template to create a learning space automatically",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write ./",
+    "format:check": "prettier --check ./",
+    "spell-check": "cspell -v \"./**\"",
+    "lint:ls": "ls-lint",
+    "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ ",
+    "update:people": "node ./admin/scripts/bin/update-collaborators.js && node ./admin/scripts/bin/render-readme.js",
+    "update:modules": "node ./admin/scripts/bin/update-modules.js && node ./admin/scripts/bin/render-readme.js",
+    "update:readme": "node ./admin/scripts/bin/render-readme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/school-as-code/school-as-code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/school-as-code/school-as-code/issues"
+  },
+  "homepage": "https://github.com/school-as-code/school-as-code#readme",
+  "author": "school-as-code",
+  "license": "MIT",
+  "devDependencies": {
+    "@ls-lint/ls-lint": "^1.10.0",
+    "cspell": "^5.18.5",
+    "js-yaml": "^4.1.0",
+    "markdownlint-cli": "^0.31.1",
+    "node-fetch": "^3.2.0",
+    "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "i": "^0.3.7"
+  }
+}

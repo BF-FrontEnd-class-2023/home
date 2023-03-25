@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=" />
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link href="./styles.css" rel="stylesheet" />
+    <link href="./gh-styles.css" rel="stylesheet" />
+
+    <base target="_blank" />
+  </head>
+
+  <body>
+    <div id="user-interface">
+      <div id="sidebar-container" class="sidenav"></div>
+
+      <div id="readme-container" class="main"></div>
+    </div>
+
+    <script id="data">
+      const state = {
+        modules: {},
+        info: {},
+      };
+    </script>
+
+    <script src="./lib/marked.min.js"></script>
+
+    <script id="utils">
+      // const log = (thing) => (console.log(thing), thing);
+
+      const nameToTitle = (name = '') =>
+        typeof name !== 'string'
+          ? ''
+          : name
+              .split('-')
+              .map((word) => word[0].toUpperCase() + word.slice(1))
+              .join(' ');
+
+      const processRepoURL = async (repoURL = '') => {
+        const [owner, repo] = repoURL.split('/').slice(-2);
+
+        const res = await fetch(
+          `https://api.github.com/repos/${owner}/${repo}`,
+        );
+
+        const { default_branch } = await res.json();
+
+        return {
+          owner,
+          repo,
+          defaultBranch: default_branch,
+          repoWithBranch: `https://github.com/${owner}/${repo}/tree/${default_branch}`,
+          rawWithBranch: `https://raw.githubusercontent.com/${owner}/${repo}/${default_branch}`,
+          ghPages: `https://${owner}.github.io/${repo}`,
+        };
+      };
+    </script>
+
+    <script id="components">
+      const getReadme = (
+        (readmeCache = {}) =>
+        async (repoURL = '') => {
+          if (readmeCache[repoURL]) {
+            return readmeCache[repoURL];
+          }
+
+          const { repoWithBranch, rawWithBranch } = await processRepoURL(
+            repoURL,
+          );
+
+          const readmeMd = await fetch(`${rawWithBranch}/README.md`).then(
+            (res) => res.text(),
+          );
+
+          const parsedReadme = marked.parse(readmeMd, {
+            baseUrl: `${repoWithBranch}/`,
+            gfm: true,
+          });
+
+          const readmeContainer = document.createElement('div');
+          readmeContainer.className = 'markdown-body';
+          readmeContainer.innerHTML = parsedReadme;
+
+          readmeCache[repoURL] = readmeContainer;
+
+          return readmeCache[repoURL];
+        }
+      )();
+
+      const list = (elements = []) => {
+        const ul = document.createElement('ul');
+        for (const element of elements) {
+          const li = document.createElement('li');
+          li.appendChild(element);
+          ul.appendChild(li);
+        }
+        return ul;
+      };
+
+      const renderModuleItem = (module = {}) => {
+        const { name, description, weeks, state, url } = module;
+
+        const moduleEl = document.createElement('text');
+        moduleEl.innerHTML = name;
+        moduleEl.className = 'fake-link';
+        if (state === 'closed') {
+          moduleEl.style.textDecoration = 'line-through';
+        }
+        moduleEl.id = url;
+
+        moduleEl.addEventListener('click', (event) => {
+          event.preventDefault;
+          moduleEl.style.color = 'firebrick';
+          moduleEl.dispatchEvent(
+            new CustomEvent('select-module', {
+              bubbles: true,
+              detail: module,
+            }),
+          );
+        });
+
+        return moduleEl;
+      };
+    </script>
+
+    <script id="handlers">
+      const selectModule = async (event) => await swapModules(event.detail);
+    </script>
+
+    <script id="procedures">
+      const swapModules = async (module = {}) => {
+        const { url, name } = module;
+
+        const readmeContainer = document.getElementById('readme-container');
+
+        readmeContainer.innerHTML = '';
+        readmeContainer.appendChild(await getReadme(url));
+
+        const href = new URL(window.location.href);
+        href.searchParams.set('module', encodeURIComponent(name));
+        window.history.pushState('', '', href);
+      };
+
+      const navigateModule = async () => {
+        const currentUrl = window.location.href;
+
+        const navigateToName = decodeURIComponent(
+          new URL(currentUrl).searchParams.get('module'),
+        );
+        const navigateTo = state.modules.path.find(
+          (module) => module.name === navigateToName,
+        );
+
+        if (navigateTo) {
+          await swapModules(navigateTo);
+        }
+      };
+    </script>
+
+    <script type="module" id="init">
+      import { load } from './lib/js-yaml.js';
+
+      (async () => {
+        try {
+          const [modulesYaml, orgYaml] = await Promise.all([
+            fetch('../admin/modules.yml').then((res) => res.text()),
+            fetch('../admin/org.yml').then((res) => res.text()),
+          ]);
+
+          state.modules = load(modulesYaml);
+          state.info = { ...load(orgYaml) };
+
+          // -- title --
+
+          const pageName = nameToTitle(state.info.name) + ': modules';
+          document.title = pageName;
+
+          // -- initialize UI --
+
+          const sidebarContainer = document.getElementById('sidebar-container');
+
+          const sideBarHeader = document.createElement('h2');
+          sideBarHeader.innerHTML = pageName;
+          sidebarContainer.appendChild(sideBarHeader);
+
+          const renderedModuleItems = state.modules.path.map(renderModuleItem);
+          const modulesList = list(renderedModuleItems);
+          sidebarContainer.appendChild(modulesList);
+
+          sidebarContainer.addEventListener('select-module', selectModule);
+
+          window.addEventListener('popstate', navigateModule);
+
+          // -- render initial module --
+
+          const firstOpenModule = state.modules.path.find(
+            (module) => module.state !== 'closed',
+          );
+
+          if (firstOpenModule) {
+            document.getElementById(firstOpenModule.url).click();
+          } else {
+            // fall back to URL-serialized module
+            await navigateModule();
+          }
+        } catch (err) {
+          console.error(err);
+        }
+      })();
+    </script>
+  </body>
+</html>

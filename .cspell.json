@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "words": [],
+  "ignorePaths": [
+    "node_modules/**",
+    "student-bios/**",
+    "package.json",
+    "package-lock.json",
+    "**/*.mp4",
+    "**/*.svg",
+    "**/*.jpg",
+    "**/*.JPG",
+    "**/*.png"
+  ]
+}

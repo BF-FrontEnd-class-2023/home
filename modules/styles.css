@@ -1,0 +1,48 @@
+.fake-link {
+  text-decoration: underline;
+  color: blue;
+  line-height: 1.5em;
+}
+
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sidenav_fixed */
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  border-right: 1px solid black;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.sidenav a {
+  /* text-decoration: none; */
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  overflow: scroll;
+  /* Same as the width of the sidenav */
+  margin-left: 160px;
+
+  padding-left: 2em;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}
