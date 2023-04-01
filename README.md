@@ -33,25 +33,14 @@
 
 Learn to plan and build web applications as a team.
 
-### [0. Precourse](https://github.com/hackyourfuturebelgium/precourse): 1 week
-
-> [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Acheck-in)
-> |
-> [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"0.%20Precourse"+label%3Adeliverable)
-> |
-> [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/1)
-
-Set up your accounts and prepare your development environment.
-
-### [1. Workflows](https://github.com/hackyourfuturebelgium/workflows): 2 weeks
+### [1. Workflows](https://github.com/hackyourfuturebelgium/workflows): 1 week
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"1.%20Workflows"+label%3Adeliverable)
 > |
 > [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/2)
+> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/1)
 
 Learn the workflows you need to develop individually and in a group.
 
@@ -60,20 +49,15 @@ Learn the workflows you need to develop individually and in a group.
     [VSCode and Git](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/vscode-and-git.md)
   - Deliverable:
     [Student Bio PR](https://github.com/HackYourFutureBelgium/workflows/blob/master/deliverables/student-bio-pr.md)
-- **Week 2**: Chapter 3
-  - Lesson Plan:
-    [GitHub Project Management](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/github-project-management.md)
-  - Deliverable:
-    [Group Intro Repo](https://github.com/HackYourFutureBelgium/workflows/blob/master/deliverables/group-introduction-repo.md)
 
-### [2. Agile Development](https://github.com/hackyourfuturebelgium/agile-development): 4 weeks
+### [2. Agile Development](https://github.com/hackyourfuturebelgium/agile-development): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"2.%20Agile%20Development"+label%3Adeliverable)
 > |
 > [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/3)
+> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/2)
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
@@ -87,39 +71,23 @@ Practice collaboratively planning and developing HTML/CSS websites.
     [User-Centered Development](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/user-centered-development.md)
   - Deliverable:
     [Loruki Rebuild](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/loruki-rebuild.md)
-- **Break Week!**
-- **Week 3**: Chapter 3 - Adapting Plans
-  - Lesson Plan:
-    [Being Agile](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/being-agile.md)
-  - Deliverable: Begin
-    [HYF Redesign](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/hyf-redesign.md)
-- **Week 4**: Chapter 3 - Adapting Plans
-  - Lesson Plan: Group Project Session
-  - Deliverable: Finish
-    [HYF Redesign](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/hyf-redesign.md)
 
-### [3. UX/UI Design](https://github.com/hackyourfuturebelgium/ux-ui-design): 2 weeks
+### [3. HTML & CSS](https://github.com/hackyourfuturebelgium/agile-development): 1 week
 
-> [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Acheck-in)
+> [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"3.%20HTML%20%26%20CSS"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"3.%20UX%2FUI%20Design"+label%3Adeliverable)
+> [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"3.%20HTML%20%26%20CSS"+label%3Adeliverable)
 > |
-> [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/4)
+> [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"3.%20HTML%20%26%20CSS"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/3)
 
-Explore design thinking process and placing your users at the center of your
-development process.
+Practice collaboratively planning and developing HTML/CSS websites.
 
-- **Week 1**: Chapter 1
+- **Week 1**: Chapters 0, 1 - Following Plans
   - Lesson Plan:
-    [Design Thinking](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/design-thinking.md)
+    [Planning and Collaborating](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
   - Deliverable:
-    [Practical Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
-- **Week 2**: Chapters 2, 3
-  - Lesson Plan:
-    [Gestalt Principles & Figma](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/gestalt-and-figma.md)
-  - Deliverable:
-    [Co-Design your Home Page](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/co-design-your-home-page)
+    [All About Trees](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/all-about-trees)
 
 ### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js): 3 weeks
 
@@ -128,7 +96,7 @@ development process.
 > [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"4.%20Welcome%20to%20JS"+label%3Adeliverable)
 > |
 > [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/5)
+> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/4)
 
 Learn to read small programs, and to write code that other people can
 understand.
@@ -157,19 +125,19 @@ understand.
 > [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"5.%20Inside%20JS"+label%3Adeliverable)
 > |
 > [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/6)
+> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/5)
 
 Take a deep dive into JavaScript and explore some it's trickiest features. Build
 your foundations now so later you can focus on the fun stuff.
 
-### [6. Behavior, Strategy, Implementation](https://github.com/hackyourfuturebelgium/behavior-strategy-implementation): 3 weeks
+### [6. Behavior, Strategy, Implementation](https://github.com/hackyourfuturebelgium/behavior-strategy-implementation): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Adeliverable)
 > |
 > [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/7)
+> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/6)
 
 Explore problem solving in JavaScript, learn how to write and review solutions
 to JS coding challenges.
@@ -183,20 +151,15 @@ to JS coding challenges.
     [Function Design](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/function-design.md)
   - Study Priorities: Try to solve 2-4 exercises from each section of the
     chapter
-- **Week 3**: Chapter 3
-  - Lesson Plan:
-    [Code Review](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/code-review.md)
-  - Deliverable:
-    [Practice Code Review](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/deliverables/practice-code-review.md)
 
-### [7. Separation of Concerns](https://github.com/hackyourfuturebelgium/separation-of-concerns): 3 weeks
+### [7. Separation of Concerns](https://github.com/hackyourfuturebelgium/separation-of-concerns): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Adeliverable)
 > |
 > [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/8)
+> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/7)
 
 Learn how to break down interactive web pages into clear tasks that can be
 shared divided across team.
@@ -208,58 +171,22 @@ shared divided across team.
 > [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"8.%20Asynchronous%20Programming"+label%3Adeliverable)
 > |
 > [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/9)
+> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/8)
 
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
-### [9. Headless CMS](https://github.com/hackyourfuturebelgium/headless-cms): 3 weeks
+### [9. Component Based Design](https://github.com/hackyourfuturebelgium/component-based-design): 3 weeks
 
-> [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Acheck-in)
+> [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"9.%20Component%20Based%20Design"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"9.%20Headless%20CMS"+label%3Adeliverable)
+> [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"9.%20Component%20Based%20Design"+label%3Adeliverable)
 > |
-> [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/10)
-
-Learn what a Content Management System is and explore how you use one to model
-the data for your own web applications.
-
-### [10. Component Based Design](https://github.com/hackyourfuturebelgium/component-based-design): 3 weeks
-
-> [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Acheck-in)
-> |
-> [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"10.%20Component%20Based%20Design"+label%3Adeliverable)
-> |
-> [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/11)
+> [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"9.%20Component%20Based%20Design"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/9)
 
 Practice developing Single Page Apps built from reusable UI components, and
 explore your first Frontend Framework.
-
-### [11. Individual Project](https://github.com/hackyourfuturebelgium/individual-project): 2 weeks
-
-> [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Acheck-in)
-> |
-> [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"11.%20Individual%20Project"+label%3Adeliverable)
-> |
-> [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/12)
-
-Prepare for the final project by individually designing, planning, building and
-deploying your own fullstack web app.
-
-### [12. Final Project](https://github.com/hackyourfuturebelgium/final-project): 6 weeks
-
-> [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Acheck-in)
-> |
-> [deliverables board](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=milestone%3A"12.%20Final%20Project"+label%3Adeliverable)
-> |
-> [retros](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/BF-frontEnd-class/home/milestone/13)
-
-Put it all together! Work in teams to identify your target users and a
-real-world problem they face, then deliver a web app to meet their needs.
 
 ---
 

@@ -1,12 +1,6 @@
 description: Learn to plan and build web applications as a team.
 board: 1
 path:
-  - name: 0. Precourse
-    description: Set up your accounts and prepare your development environment.
-    url: https://github.com/hackyourfuturebelgium/precourse
-    weeks: 1
-    milestone: 1
-    state: open
   - name: 1. Workflows
     description: >-
       Learn the workflows you need to develop individually and in a group.
@@ -16,15 +10,9 @@ path:
       Git](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/vscode-and-git.md)
         - Deliverable: [Student Bio
       PR](https://github.com/HackYourFutureBelgium/workflows/blob/master/deliverables/student-bio-pr.md)
-
-      - **Week 2**: Chapter 3
-        - Lesson Plan: [GitHub Project
-      Management](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/github-project-management.md)
-        - Deliverable: [Group Intro
-      Repo](https://github.com/HackYourFutureBelgium/workflows/blob/master/deliverables/group-introduction-repo.md)
     url: https://github.com/hackyourfuturebelgium/workflows
-    weeks: 2
-    milestone: 2
+    weeks: 1
+    milestone: 1
     state: open
   - name: 2. Agile Development
     description: >-
@@ -41,43 +29,23 @@ path:
       Development](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/user-centered-development.md)
         - Deliverable: [Loruki
       Rebuild](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/loruki-rebuild.md)
-
-      - **Break Week!**
-
-      - **Week 3**: Chapter 3 - Adapting Plans
-        - Lesson Plan: [Being
-      Agile](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/being-agile.md)
-        - Deliverable: Begin [HYF
-      Redesign](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/hyf-redesign.md)
-
-      - **Week 4**: Chapter 3 - Adapting Plans
-        - Lesson Plan: Group Project Session
-        - Deliverable: Finish [HYF
-      Redesign](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/hyf-redesign.md)
     url: https://github.com/hackyourfuturebelgium/agile-development
-    weeks: 4
+    weeks: 2
+    milestone: 2
+    state: open
+  - name: 3. HTML & CSS
+    description: >-
+      Practice collaboratively planning and developing HTML/CSS websites.
+
+      - **Week 1**: Chapters 0, 1 - Following Plans
+        - Lesson Plan: [Planning and
+      Collaborating](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
+        - Deliverable: [All About
+      Trees](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/all-about-trees)
+    url: https://github.com/hackyourfuturebelgium/agile-development
+    weeks: 1
     milestone: 3
     state: open
-  - name: 3. UX/UI Design
-    description: >-
-      Explore design thinking process and placing your users at the center of
-      your development process.
-
-      - **Week 1**: Chapter 1
-        - Lesson Plan: [Design
-      Thinking](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/design-thinking.md)
-        - Deliverable: [Practical
-      Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
-
-      - **Week 2**: Chapters 2, 3
-        - Lesson Plan: [Gestalt Principles &
-      Figma](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/gestalt-and-figma.md)
-        - Deliverable: [Co-Design your Home
-      Page](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/co-design-your-home-page)
-    url: https://github.com/hackyourfuturebelgium/ux-ui-design
-    weeks: 2
-    state: open
-    milestone: 4
   - name: 4. Welcome to JS
     description: >-
       Learn to read small programs, and to write code that other people can
@@ -99,7 +67,7 @@ path:
         - Study Priorities: _Developing Programs_
     url: https://github.com/hackyourfuturebelgium/welcome-to-js
     weeks: 3
-    milestone: 5
+    milestone: 4
     state: open
   - name: 5. Inside JS
     description: >-
@@ -108,7 +76,7 @@ path:
       stuff.
     url: https://github.com/hackyourfuturebelgium/inside-js
     weeks: 4
-    milestone: 6
+    milestone: 5
     state: open
   - name: 6. Behavior, Strategy, Implementation
     description: >-
@@ -126,23 +94,17 @@ path:
       Design](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/function-design.md)
         - Study Priorities: Try to solve 2-4 exercises from each section of the
       chapter
-
-      - **Week 3**: Chapter 3
-        - Lesson Plan: [Code
-      Review](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/code-review.md)
-        - Deliverable: [Practice Code
-      Review](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/deliverables/practice-code-review.md)
     url: https://github.com/hackyourfuturebelgium/behavior-strategy-implementation
-    weeks: 3
-    milestone: 7
+    weeks: 2
+    milestone: 6
     state: open
   - name: 7. Separation of Concerns
     description: >-
       Learn how to break down interactive web pages into clear tasks that can be
       shared divided across team.
     url: https://github.com/hackyourfuturebelgium/separation-of-concerns
-    weeks: 3
-    milestone: 8
+    weeks: 2
+    milestone: 7
     state: open
   - name: 8. Asynchronous Programming
     description: >-
@@ -150,37 +112,13 @@ path:
       your websites.
     url: https://github.com/hackyourfuturebelgium/asynchronous-programming
     weeks: 3
-    milestone: 9
+    milestone: 8
     state: open
-  - name: 9. Headless CMS
-    description: >-
-      Learn what a Content Management System is and explore how you use one to
-      model the data for your own web applications.
-    url: https://github.com/hackyourfuturebelgium/headless-cms
-    weeks: 3
-    milestone: 10
-    state: open
-  - name: 10. Component Based Design
+  - name: 9. Component Based Design
     description: >-
       Practice developing Single Page Apps built from reusable UI components,
       and explore your first Frontend Framework.
     url: https://github.com/hackyourfuturebelgium/component-based-design
     weeks: 3
-    milestone: 11
-    state: open
-  - name: 11. Individual Project
-    description: >-
-      Prepare for the final project by individually designing, planning,
-      building and deploying your own fullstack web app.
-    url: https://github.com/hackyourfuturebelgium/individual-project
-    weeks: 2
-    milestone: 12
-    state: open
-  - name: 12. Final Project
-    description: >-
-      Put it all together!  Work in teams to identify your target users and a
-      real-world problem they face, then deliver a web app to meet their needs.
-    url: https://github.com/hackyourfuturebelgium/final-project
-    weeks: 6
-    milestone: 13
+    milestone: 9
     state: open
