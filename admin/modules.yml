@@ -4,45 +4,19 @@ path:
   - name: 1. Workflows
     description: >-
       Learn the workflows you need to develop individually and in a group.
-
-      - **Week 1**: Chapters 0, 1, 2
-        - Lesson Plan: [VSCode and
-      Git](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/vscode-and-git.md)
-        - Deliverable: [Student Bio
-      PR](https://github.com/HackYourFutureBelgium/workflows/blob/master/deliverables/student-bio-pr.md)
-    url: https://github.com/hackyourfuturebelgium/workflows
+    url: https://github.com/hackyourfuturebelgium/bf-workflows
     weeks: 1
     milestone: 1
     state: open
   - name: 2. Agile Development
     description: >-
       Practice collaboratively planning and developing HTML/CSS websites.
-
-      - **Week 1**: Chapters 0, 1 - Following Plans
-        - Lesson Plan: [Planning and
-      Collaborating](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
-        - Deliverable: [All About
-      Trees](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/all-about-trees)
-
-      - **Week 2**: Chapter 2 - Writing Plans
-        - Lesson Plan: [User-Centered
-      Development](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/user-centered-development.md)
-        - Deliverable: [Loruki
-      Rebuild](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/loruki-rebuild.md)
-    url: https://github.com/hackyourfuturebelgium/agile-development
     weeks: 2
     milestone: 2
     state: open
   - name: 3. HTML & CSS
     description: >-
       Practice collaboratively planning and developing HTML/CSS websites.
-
-      - **Week 1**: Chapters 0, 1 - Following Plans
-        - Lesson Plan: [Planning and
-      Collaborating](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
-        - Deliverable: [All About
-      Trees](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/all-about-trees)
-    url: https://github.com/hackyourfuturebelgium/agile-development
     weeks: 1
     milestone: 3
     state: open
@@ -50,22 +24,6 @@ path:
     description: >-
       Learn to read small programs, and to write code that other people can
       understand.
-
-      - **Week 1**: Chapters 0, 1, 2
-        - Lesson Plan: [Computers and
-      Developers](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/computers-and-developers)
-        - Study Priorities: _What is Programming?_ and _Just Enough JS_
-
-      - **Week 2**: Chapters 2, 3
-        - Lesson Plan: [DevTools
-      Debugger](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/devtools-debugger)
-        - Study Priorities: _Just Enough JS_ and _Understanding Programs_
-
-      - **Week 3**: Chapter 4
-        - Lesson Plan: [Writing and
-      Reviewing](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/writing-and-reviewing)
-        - Study Priorities: _Developing Programs_
-    url: https://github.com/hackyourfuturebelgium/welcome-to-js
     weeks: 3
     milestone: 4
     state: open
@@ -74,7 +32,6 @@ path:
       Take a deep dive into JavaScript and explore some it's trickiest
       features.  Build your foundations now so later you can focus on the fun
       stuff.
-    url: https://github.com/hackyourfuturebelgium/inside-js
     weeks: 4
     milestone: 5
     state: open
@@ -82,19 +39,6 @@ path:
     description: >-
       Explore problem solving in JavaScript, learn how to write and review
       solutions to JS coding challenges.
-
-      - **Week 1**: Chapter 1
-        - Lesson Plan: [Solution
-      Write-Ups](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/solution-write-ups.md)
-        - Study Priorities: Try to write up at least 3 solutions during the
-      week.
-
-      - **Week 2**: Chapters 2
-        - Lesson Plan: [Function
-      Design](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/function-design.md)
-        - Study Priorities: Try to solve 2-4 exercises from each section of the
-      chapter
-    url: https://github.com/hackyourfuturebelgium/behavior-strategy-implementation
     weeks: 2
     milestone: 6
     state: open
@@ -102,7 +46,6 @@ path:
     description: >-
       Learn how to break down interactive web pages into clear tasks that can be
       shared divided across team.
-    url: https://github.com/hackyourfuturebelgium/separation-of-concerns
     weeks: 2
     milestone: 7
     state: open
@@ -110,7 +53,6 @@ path:
     description: >-
       Learn how the JavaScript event loop works and how you can use API data in
       your websites.
-    url: https://github.com/hackyourfuturebelgium/asynchronous-programming
     weeks: 3
     milestone: 8
     state: open
@@ -118,7 +60,6 @@ path:
     description: >-
       Practice developing Single Page Apps built from reusable UI components,
       and explore your first Frontend Framework.
-    url: https://github.com/hackyourfuturebelgium/component-based-design
     weeks: 3
     milestone: 9
     state: open

@@ -33,7 +33,7 @@
 
 Learn to plan and build web applications as a team.
 
-### [1. Workflows](https://github.com/hackyourfuturebelgium/workflows): 1 week
+### [1. Workflows](https://github.com/hackyourfuturebelgium/bf-workflows): 1 week
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Acheck-in)
 > |
@@ -44,13 +44,7 @@ Learn to plan and build web applications as a team.
 
 Learn the workflows you need to develop individually and in a group.
 
-- **Week 1**: Chapters 0, 1, 2
-  - Lesson Plan:
-    [VSCode and Git](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/vscode-and-git.md)
-  - Deliverable:
-    [Student Bio PR](https://github.com/HackYourFutureBelgium/workflows/blob/master/deliverables/student-bio-pr.md)
-
-### [2. Agile Development](https://github.com/hackyourfuturebelgium/agile-development): 2 weeks
+### [2. Agile Development](): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
 > |
@@ -61,18 +55,7 @@ Learn the workflows you need to develop individually and in a group.
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
-- **Week 1**: Chapters 0, 1 - Following Plans
-  - Lesson Plan:
-    [Planning and Collaborating](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
-  - Deliverable:
-    [All About Trees](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/all-about-trees)
-- **Week 2**: Chapter 2 - Writing Plans
-  - Lesson Plan:
-    [User-Centered Development](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/user-centered-development.md)
-  - Deliverable:
-    [Loruki Rebuild](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/loruki-rebuild.md)
-
-### [3. HTML & CSS](https://github.com/hackyourfuturebelgium/agile-development): 1 week
+### [3. HTML & CSS](): 1 week
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"3.%20HTML%20%26%20CSS"+label%3Acheck-in)
 > |
@@ -83,13 +66,7 @@ Practice collaboratively planning and developing HTML/CSS websites.
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
-- **Week 1**: Chapters 0, 1 - Following Plans
-  - Lesson Plan:
-    [Planning and Collaborating](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
-  - Deliverable:
-    [All About Trees](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/all-about-trees)
-
-### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js): 3 weeks
+### [4. Welcome to JS](): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
 > |
@@ -101,24 +78,7 @@ Practice collaboratively planning and developing HTML/CSS websites.
 Learn to read small programs, and to write code that other people can
 understand.
 
-- **Week 1**: Chapters 0, 1, 2
-
-  - Lesson Plan:
-    [Computers and Developers](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/computers-and-developers)
-  - Study Priorities: _What is Programming?_ and _Just Enough JS_
-
-- **Week 2**: Chapters 2, 3
-
-  - Lesson Plan:
-    [DevTools Debugger](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/devtools-debugger)
-  - Study Priorities: _Just Enough JS_ and _Understanding Programs_
-
-- **Week 3**: Chapter 4
-  - Lesson Plan:
-    [Writing and Reviewing](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/writing-and-reviewing)
-  - Study Priorities: _Developing Programs_
-
-### [5. Inside JS](https://github.com/hackyourfuturebelgium/inside-js): 4 weeks
+### [5. Inside JS](): 4 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
 > |
@@ -130,7 +90,7 @@ understand.
 Take a deep dive into JavaScript and explore some it's trickiest features. Build
 your foundations now so later you can focus on the fun stuff.
 
-### [6. Behavior, Strategy, Implementation](https://github.com/hackyourfuturebelgium/behavior-strategy-implementation): 2 weeks
+### [6. Behavior, Strategy, Implementation](): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
 > |
@@ -142,17 +102,7 @@ your foundations now so later you can focus on the fun stuff.
 Explore problem solving in JavaScript, learn how to write and review solutions
 to JS coding challenges.
 
-- **Week 1**: Chapter 1
-  - Lesson Plan:
-    [Solution Write-Ups](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/solution-write-ups.md)
-  - Study Priorities: Try to write up at least 3 solutions during the week.
-- **Week 2**: Chapters 2
-  - Lesson Plan:
-    [Function Design](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/function-design.md)
-  - Study Priorities: Try to solve 2-4 exercises from each section of the
-    chapter
-
-### [7. Separation of Concerns](https://github.com/hackyourfuturebelgium/separation-of-concerns): 2 weeks
+### [7. Separation of Concerns](): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
 > |
@@ -164,7 +114,7 @@ to JS coding challenges.
 Learn how to break down interactive web pages into clear tasks that can be
 shared divided across team.
 
-### [8. Asynchronous Programming](https://github.com/hackyourfuturebelgium/asynchronous-programming): 3 weeks
+### [8. Asynchronous Programming](): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Acheck-in)
 > |
@@ -176,7 +126,7 @@ shared divided across team.
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
-### [9. Component Based Design](https://github.com/hackyourfuturebelgium/component-based-design): 3 weeks
+### [9. Component Based Design](): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"9.%20Component%20Based%20Design"+label%3Acheck-in)
 > |
