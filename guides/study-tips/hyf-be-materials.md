@@ -13,26 +13,13 @@ issues won't be placed on the module project board.
 
 ## Module Exercises
 
-> You should try to complete the 🥚's and being the 🐣's
+> You should try to complete the exercises
 
 Most modules will have exercises to practice alongside the projects. These
 emoji's will help you figure out how to spend your study time as effectively as
 possible. If you can't master all the material at once, that's expected!
 Anything you don't master now will always be waiting for you to review when you
 need it:
-
-- 🥚: Understanding this material is required, it covers the base skills you'll
-  need for this module and the next. You do not need to finish all of them but
-  should feel comfortable that you could with enough time.
-- 🐣: You have started all of these exercises and feel you could complete them
-  all if you just had more time. It may not be easy for you but with effort you
-  can make it through.
-- 🐥: You have studied the examples and started some exercises if you had time.
-  You should have a big-picture understanding of these concepts/skills, but may
-  not be confident completing the exercises.
-- 🐔: These concepts or skills are not necessary but are related to this module.
-  If you are finished with 🥚, 🐣 and 🐥 you can use the 🐔 exercises to push
-  yourself without getting distracted from the module's main objectives.
 
 Alongside each project there will be a set of exercises. Unlike projects the
 exercises will focus in on specific skills, tools or concepts. Exercises are
@@ -82,28 +69,3 @@ students, please share it with a pull request!
 
 You will use the _Suggested Study_ section of your `check-in` issue to keep
 track of the resources you've found the most helpful during the module.
-
-## Sunday Prep
-
-> You should be familiar with the lesson material before each lesson
-
-At the top of each chapter's section you will find a list of videos, articles or
-examples to study **before** coming into class on Sunday. These resources will
-be _organized by topic_. You do not need to deeply study each and every link,
-but we do expect you to familiarize yourself with each topic. This might mean
-studying one link from each topic in detail and only skimming the rest. It's up
-to you to find the method that works best for you.
-
-## Extra Support
-
-<<<<<<< Updated upstream If feel that you need extra support, let us know on
-Discord or with your Thursday Check-in. We'll get in touch and together find a
-solution to help you move forward. This might include individual support from a
-coach, pairing you with a study-buddy, or helping to find study resources that
-better fit your needs. ======= If feel that you need extra support, let us know
-on Slack or with your Wednesday Check-in. We'll get in touch and together find a
-solution to help you move forward. This might include individual support from a
-coach, pairing you with a study-buddy, or helping to find study resources that
-better fit your needs.
-
-> > > > > > > Stashed changes

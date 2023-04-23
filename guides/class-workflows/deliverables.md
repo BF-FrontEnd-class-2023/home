@@ -1,6 +1,6 @@
 # Module Deliverables
 
-All modules will have a deliverable or two: some are projects and some are
+All modules will have a deliverable or more: some are projects and some are
 smaller, some are group and some are individual.
 
 - [Deliverable Issues](module-deliverables.md#deliverable-issues)

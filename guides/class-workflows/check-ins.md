@@ -12,10 +12,9 @@ Your issue should have a title such as `Elias: Agile Development, 4 weeks` and
 make sure you go through these steps:
 
 ```markdown
-[ ] add yourself as assignee to it, [ ] add the labels check-in & week-x  
-[ ] add it to the Project Board: Deliverables [ ] add the appropriate milestone
-(eg. 2. Agile Development) [ ] add your comment using the template on every
-Thursday
+[ ] add yourself as assignee to it. [ ] add the labels check-in & week-x.  
+[ ] add the appropriate milestone (eg. 2. Agile Development) [ ] add your
+comment using the template on every Thursday
 ```
 
 ## Issue Description
@@ -38,8 +37,6 @@ comment using the given template:
   was difficult?
 - **Lessons Learned**: What did you learn this week that you will take with you
   into next week? I can be technical, a mindset, a study habit, anything!
-- **Sunday Prep Work**: Begin organizing your prep work for the following
-  Sunday.
 
 When you have posted your Thursday Check-in comment please add the `week-x`
 label to your issue, so we know it's ready for review.
@@ -49,25 +46,3 @@ After reading your check-in, a coach or HYF team member will label it
 
 > If you are blocked on something then a coach or classmate will get in touch to
 > help you
-
-## Module Retrospective
-
-At the end of each module you will post a _retrospective_ comment in your issue
-where you will look back over the module to summarize what went well and what
-can be better (for you and for HYF):
-
-- Me
-  - What was not clear, where did you get stuck?
-  - What was clear, what did you master?
-  - Where can you still use some help?
-  - Where can you help others moving forwards?
-- The Course
-  - What can there be more of?
-  - What can there be less of?
-  - What material were most helpful (from HYF or elsewhere)?
-  - What materials were least helpful?
-  - Any suggestions for future classes?
-
-After you've posted this comment you will add the `retro` label to your issue so
-your coaches know to read it. After reading it they will add the `checked-retro`
-label to your issue.
