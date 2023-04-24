@@ -44,7 +44,7 @@ Learn to plan and build web applications as a team.
 
 Learn the workflows you need to develop individually and in a group.
 
-### [2. Agile Development](): 2 weeks
+### [2. Agile Development](https://github.com/hackyourfuturebelgium/bf-workflows): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
 > |
@@ -55,7 +55,7 @@ Learn the workflows you need to develop individually and in a group.
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
-### [3. HTML & CSS](): 1 week
+### [3. HTML & CSS](https://github.com/hackyourfuturebelgium/bf-workflows): 1 week
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"3.%20HTML%20%26%20CSS"+label%3Acheck-in)
 > |
@@ -66,7 +66,7 @@ Practice collaboratively planning and developing HTML/CSS websites.
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
-### [4. Welcome to JS](): 3 weeks
+### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/bf-workflows): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
 > |
@@ -78,7 +78,7 @@ Practice collaboratively planning and developing HTML/CSS websites.
 Learn to read small programs, and to write code that other people can
 understand.
 
-### [5. Inside JS](): 4 weeks
+### [5. Inside JS](https://github.com/hackyourfuturebelgium/bf-workflows): 4 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
 > |
@@ -90,7 +90,7 @@ understand.
 Take a deep dive into JavaScript and explore some it's trickiest features. Build
 your foundations now so later you can focus on the fun stuff.
 
-### [6. Behavior, Strategy, Implementation](): 2 weeks
+### [6. Behavior, Strategy, Implementation](https://github.com/hackyourfuturebelgium/bf-workflows): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
 > |
@@ -102,7 +102,7 @@ your foundations now so later you can focus on the fun stuff.
 Explore problem solving in JavaScript, learn how to write and review solutions
 to JS coding challenges.
 
-### [7. Separation of Concerns](): 2 weeks
+### [7. Separation of Concerns](https://github.com/hackyourfuturebelgium/bf-workflows): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
 > |
@@ -114,7 +114,7 @@ to JS coding challenges.
 Learn how to break down interactive web pages into clear tasks that can be
 shared divided across team.
 
-### [8. Asynchronous Programming](): 3 weeks
+### [8. Asynchronous Programming](https://github.com/hackyourfuturebelgium/bf-workflows): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Acheck-in)
 > |
@@ -126,7 +126,7 @@ shared divided across team.
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
-### [9. Component Based Design](): 3 weeks
+### [9. Component Based Design](https://github.com/hackyourfuturebelgium/bf-workflows): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"9.%20Component%20Based%20Design"+label%3Acheck-in)
 > |

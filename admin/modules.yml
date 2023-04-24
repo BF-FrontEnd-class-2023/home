@@ -11,12 +11,14 @@ path:
   - name: 2. Agile Development
     description: >-
       Practice collaboratively planning and developing HTML/CSS websites.
+    url: https://github.com/hackyourfuturebelgium/bf-workflows
     weeks: 2
     milestone: 2
     state: open
   - name: 3. HTML & CSS
     description: >-
       Practice collaboratively planning and developing HTML/CSS websites.
+    url: https://github.com/hackyourfuturebelgium/bf-workflows
     weeks: 1
     milestone: 3
     state: open
@@ -24,6 +26,7 @@ path:
     description: >-
       Learn to read small programs, and to write code that other people can
       understand.
+    url: https://github.com/hackyourfuturebelgium/bf-workflows
     weeks: 3
     milestone: 4
     state: open
@@ -32,6 +35,7 @@ path:
       Take a deep dive into JavaScript and explore some it's trickiest
       features.  Build your foundations now so later you can focus on the fun
       stuff.
+    url: https://github.com/hackyourfuturebelgium/bf-workflows
     weeks: 4
     milestone: 5
     state: open
@@ -39,6 +43,7 @@ path:
     description: >-
       Explore problem solving in JavaScript, learn how to write and review
       solutions to JS coding challenges.
+    url: https://github.com/hackyourfuturebelgium/bf-workflows
     weeks: 2
     milestone: 6
     state: open
@@ -46,6 +51,7 @@ path:
     description: >-
       Learn how to break down interactive web pages into clear tasks that can be
       shared divided across team.
+    url: https://github.com/hackyourfuturebelgium/bf-workflows
     weeks: 2
     milestone: 7
     state: open
@@ -53,6 +59,7 @@ path:
     description: >-
       Learn how the JavaScript event loop works and how you can use API data in
       your websites.
+    url: https://github.com/hackyourfuturebelgium/bf-workflows
     weeks: 3
     milestone: 8
     state: open
@@ -60,6 +67,7 @@ path:
     description: >-
       Practice developing Single Page Apps built from reusable UI components,
       and explore your first Frontend Framework.
+    url: https://github.com/hackyourfuturebelgium/bf-workflows
     weeks: 3
     milestone: 9
     state: open
