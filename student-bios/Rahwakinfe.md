@@ -9,7 +9,7 @@
 My name is Rahwa and it means (love) which really i am. I am from north part of
 Ethiopian born and reasid there. i was **flight attendant** for almost 5 years
 with ethiopian airlines. with this i got some chances to travel around the
-world.
+world. i have bachlors degree in marketing managment.
 
 ## The most surprising skills i have
 
