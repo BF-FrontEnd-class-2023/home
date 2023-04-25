@@ -24,10 +24,11 @@ world.
 - my dog
 - my friends
 
-### Now i am student in HYF and My Objective is.
+### Now i am student in HYF and My Objective is
 
 - to be the best developer
 - to creat some amazing app which sometimes i wish there was.
+
 -
 
 ### my biggest fear
@@ -44,7 +45,7 @@ world.
 
 > respecting each other helping each other making fun of each other
 
-##### well that is enough!
+##### well that is enough
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/p3Q9qbT/giphy.gif" alt="giphy" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>anonymous
 image host</a><br />
