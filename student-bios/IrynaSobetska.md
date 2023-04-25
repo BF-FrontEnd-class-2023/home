@@ -6,7 +6,7 @@ Hello, my name is Iryna. I`m from Ukrain.
 
 - ✏️ Drawing
 - 🎮 Computer games
-- 💃 Sport, exspesially dance 
+- 💃 Sport, exspesially dance
 
 ## 👩‍🎓 Education
 
