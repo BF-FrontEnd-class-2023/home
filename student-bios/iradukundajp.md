@@ -4,22 +4,21 @@
 
 ![image](/student-bios/img/IMG-5780.jpg)
 
-> _My name is Jean Paul IRADUKUNDA,I am 29 years old,I am from Rwanda and I live
-> in Bornem/Antwerp._
+> My name is Jean Paul IRADUKUNDA,and I am 29 years old.I am from Rwanda, but
+> currently reside in Bornem, Belgium since moving here in 2019. In my home
+> country, I studied Applied Economic Statistics.
 
 ## **Education and Certificates**
 
 - A2 Dutch language certificate.
 - A2 French certificate.
-- 2015-2019 Bachelor of Applied Economic Statistics at National university of
-  Rwanda.
-- 2009-2014 High school diploma at LYCEE DE KIGALI Rwanda.
+- Bachelor of Applied Economic Statistics at National university of Rwanda.
+- High school diploma at LYCEE DE KIGALI Rwanda.
 
 ## **Hobbies**
 
-1. Travelling
-2. Music
-3. Reading books
+I like traveling :airplane:,listening to music :music:,watching football:tv: and
+doing sport::basketball: :volleyball: as well,
 
 For more
 info:[linkedin](https://www.linkedin.com/in/iradukunda-jean-paul-459ba413b)
