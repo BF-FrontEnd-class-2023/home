@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Inna
 
-![](img/inna.png)
+![MyPhoto](img/inna.png)
 
 I am Ukrainian 🇺🇦
 
