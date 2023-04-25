@@ -1,4 +1,8 @@
-# My name is Vladyslav Hornitskyi. I am a student of "Huck Your Future" project
+# Bio Vladyslav Hornitskyi
+
+My name is Vladyslav Hornitskyi.
+
+I am a student of "Huck Your Future" project
 
 I am currently living un Brussels.
 
