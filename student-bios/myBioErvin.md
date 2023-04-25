@@ -8,7 +8,7 @@
 
 ### Education 👨‍🎓
 
-**Master**
+Master
 
 - **_Taurida National University_**, Simferopol - business information systems,
   cybernetic
