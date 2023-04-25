@@ -17,8 +17,8 @@
 
 ## **Hobbies**
 
-I like traveling :airplane:,listening to music :music:,watching football:tv: and
-doing sport::basketball: :volleyball: as well,
+I like traveling :airplane:,listening to music:musical_score:,watching football
+:tv: and doing sport :basketball: :volleyball: as well,
 
 For more
 info:[linkedin](https://www.linkedin.com/in/iradukunda-jean-paul-459ba413b)
