@@ -1,4 +1,4 @@
-# Hi 👋, I'm Zahira Bella.
+# Hi 👋, I'm Zahira Bella
 
 ## 💼 Salesforce Consultant
 
@@ -11,7 +11,7 @@ customizing solutions for various clients.
 - _Drawing_
 - _Cooking_
 
-## 🏆 Certifications.
+## 🏆 Certifications
 
 1. Salesforce Certified Administrator
 2. Salesforce Certified AppBuilder
