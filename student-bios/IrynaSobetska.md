@@ -4,19 +4,19 @@ Hello, my name is Iryna. I`m from Ukrain.
 
 ## My hobbies
 
-- Drawing
-- Computer games
-- Sport, exspesially dance
+- ✏️ Drawing
+- 🎮 Computer games
+- 💃 Sport, exspesially dance 
 
-## Education
+## 👩‍🎓 Education
 
 ### gradueted from school
 
-## Career interest
+## 🖥️ Career interest
 
 ### IT sphere
 
-## My contact
+## 📞 My contact
 
 ### sobetska.ira@gmail.com
 
