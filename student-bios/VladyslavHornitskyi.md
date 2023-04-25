@@ -1,9 +1,17 @@
 # Bio Vladyslav Hornitskyi
 
-My name is Vladyslav Hornitskyi.
+## Introduction:
 
-I am a student of "Huck Your Future" project
+My name is Vladyslav Hornitskyi. I have just started to be a student at "Huck Your Future" in web development.
+I am currently living un Brussels. 
 
-I am currently living un Brussels.
+## Hobies:
+*Sport*
+*Traveling*
+*Reading*
 
-![hyf] (/student-bios/img/hyf.jpeg)
+## Contacting information:
+**email: vladyslavhornitskyi@gmail.com**
+**tel: 0479-40-04-65**
+
+![hyf] (/student-bios/img/Vladyslav.jpeg)
