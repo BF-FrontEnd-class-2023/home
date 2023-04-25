@@ -2,36 +2,38 @@
 
 ## Hi there 👋, I'm Inna
 
+![](img/inna.png)
+
 I am Ukrainian 🇺🇦
 
 I speak 5 languages 🇺🇦, 🇷🇺, 🇮🇹, 🇬🇧, 🇧🇪
 
-## I do not:
+## I do not
 
 - go to the gym
 - be a toxic person
 - be a boring person
 
-  ## I am:
+## I am
 
 - an intelligent person
 - someone who focuses on the positive aspects of life
 - a friendly person
 
-### I have a few hobbies that I enjoy in my free time. Here are a few things you
+I have a few hobbies that I enjoy in my free time.
 
-should know about me:
+Here are a few things you should know about me:
 
 - 📚 I love reading philosophy books.
 - 🕵🏼‍♀️ I'm a big fan of detective movies.
-- 🤓 I am constantly learning new things
+- 🤓 I am constantly learning new things.
 
 ## My Future Plans
 
 - My future plans include pursuing a career as a frontend developer and working
   for a top company.
 
-- I plan to improve my skills in the IT sector..
+- I plan to improve my skills in the IT sector.
 
 - I aspire to do a sport regularly, but I am not sure which one yet 🫣.
 
