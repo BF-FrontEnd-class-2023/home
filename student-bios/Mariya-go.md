@@ -2,7 +2,7 @@
 
 ## My name is Maria, I am from Ukraine. I am a Project Manager
 
-![hyf](./img/mariagit.jpg)
+![hyf](./img/maria.jpg)
 
 ## My hobbys
 
