@@ -2,7 +2,7 @@
 
 ## **Personal information**
 
-![image](/student-bios/img/IMG-5780.jpg)
+![image](./img/IMG-5780.jpg)
 
 > My name is Jean Paul IRADUKUNDA,and I am 29 years old.I am from Rwanda, but
 > currently reside in Bornem, Belgium since moving here in 2019. In my home

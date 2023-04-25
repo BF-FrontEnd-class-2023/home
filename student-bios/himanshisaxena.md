@@ -1,4 +1,4 @@
-# This is assignment for ![HYF](.\img\Himanshi_Saxena_Photo.jpeg)
+# This is assignment for ![HYF](./img/Himanshi_Saxena_Photo.jpeg)
 
 ## Introduction about myself
 

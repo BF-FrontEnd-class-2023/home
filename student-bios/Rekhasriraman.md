@@ -1,6 +1,6 @@
 # 💟Rekha
 
-![img](img/Photo.JPG)
+![img](./img/Photo.JPG)
 
 Hi, I am from India.
 

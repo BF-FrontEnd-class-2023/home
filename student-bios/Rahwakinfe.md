@@ -1,6 +1,6 @@
 # Hello my name is Rahwa kinfe
 
-![IMAGE](/student-bios/img/pDSC_2586.jpg)
+![IMAGE](./img/pDSC_2586.jpg)
 
 ## _Flight Attendant_
 

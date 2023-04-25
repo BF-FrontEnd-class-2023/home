@@ -42,4 +42,4 @@ customizing solutions for various clients.
 challenges is one way to do so. That's why I've decided to tacke a new challenge
 at Hack Your Future, to further my experience as a Salesforce consultant
 
-![HYF](/student-bios/img/hyf.jpeg)
+![HYF](./img/hyf.jpeg)

@@ -37,7 +37,7 @@ settle down in Belgium and improve my life in this country._**
 
 **5.** **_Links to my social networks_**
 
-- _[_Instagram_](https://www.instagram.com/ssardalov/)_
+- _[\_Instagram_](https://www.instagram.com/ssardalov/)\_
 
 - _[Twitter](https://www.twitter.com)_
 
