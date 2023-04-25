@@ -1,4 +1,6 @@
-# Rekha
+# 💟Rekha
+
+![img](img/Photo.JPG)
 
 Hi, I am from India.
 
@@ -19,4 +21,3 @@ I know
 - Telugu and
 - little bit Dutch
 
-![img](/student-bios/img/hyf.jpeg)
