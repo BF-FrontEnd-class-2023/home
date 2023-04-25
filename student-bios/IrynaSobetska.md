@@ -16,4 +16,8 @@ Hello, my name is Iryna. I`m from Ukrain.
 
 ### IT sphere
 
+## My contact
+
+### sobetska.ira@gmail.com
+
 ![myphoto](./img/iryna.photo.jpg)
