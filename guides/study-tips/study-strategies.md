@@ -16,7 +16,7 @@ study most effectively.
 - [Don’t just read, code it!](#Don-t-just-read--code-it)
 - [Sleep, Breaks and Exercise](#Sleep--Breaks-and-Exercise)
 - [Distractions](#distractions)
-- [How to become a pro at learning](#How-to-become-a-pro-at-learning)
+- [How to become a pro at learning](#how-to-become-a-pro-at-learning)
 
 ## Planning
 
