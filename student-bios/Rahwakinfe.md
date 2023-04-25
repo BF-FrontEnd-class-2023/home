@@ -1,10 +1,8 @@
 # Hello my name is Rahwa kinfe
 
-# ![IMAGE](/student-bios/img/pDSC_2586.jpg)
+![IMAGE](/student-bios/img/pDSC_2586.jpg)
 
 ## _Flight Attendant_
-
-<img src="https://img.freepik.com/free-photo/portrait-young-woman-flight-attendant-running-with-suitcase-isolated-white-background_155003-45037.jpg" width=200 hight=200>
 
 My name is Rahwa and it means (love) which really i am. I am from north part of
 Ethiopian born and reasid there. i was **flight attendant** for almost 5 years
