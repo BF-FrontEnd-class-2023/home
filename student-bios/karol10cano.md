@@ -9,7 +9,7 @@
 but 4 years ago I came to live in Belgium 🇧🇪 looking for new opportunities even
 though a pandemic came 😅
 
-> _❤️ I love animals! That's Milo my baby doggo and I._
+> _❤️ I love animals! That's Milo my baby doggo and I._ >
 > ![image](./student-bios/img/milo.png)
 
 #### I'm exciting to start this journey on learn
