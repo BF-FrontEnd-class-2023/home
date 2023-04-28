@@ -11,7 +11,7 @@ path:
   - name: 2. Agile Development
     description: >-
       Practice collaboratively planning and developing HTML/CSS websites.
-    url: https://github.com/hackyourfuturebelgium/bf-workflows
+    url: https://github.com/HackYourFutureBelgium/bf-agile-development
     weeks: 2
     milestone: 2
     state: open

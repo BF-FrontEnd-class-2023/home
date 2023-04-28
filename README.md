@@ -44,7 +44,7 @@ Learn to plan and build web applications as a team.
 
 Learn the workflows you need to develop individually and in a group.
 
-### [2. Agile Development](https://github.com/hackyourfuturebelgium/bf-workflows): 2 weeks
+### [2. Agile Development](https://github.com/HackYourFutureBelgium/bf-agile-development): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
 > |
