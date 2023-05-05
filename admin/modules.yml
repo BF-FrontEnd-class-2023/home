@@ -18,7 +18,7 @@ path:
   - name: 3. HTML & CSS
     description: >-
       Practice collaboratively planning and developing HTML/CSS websites.
-    url: https://github.com/hackyourfuturebelgium/bf-workflows
+    url: https://github.com/HackYourFutureBelgium/bf-html-and-css
     weeks: 1
     milestone: 3
     state: open

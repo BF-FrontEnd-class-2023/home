@@ -55,7 +55,7 @@ Learn the workflows you need to develop individually and in a group.
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
-### [3. HTML & CSS](https://github.com/hackyourfuturebelgium/bf-workflows): 1 week
+### [3. HTML & CSS](https://github.com/HackYourFutureBelgium/bf-html-and-css): 1 week
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"3.%20HTML%20%26%20CSS"+label%3Acheck-in)
 > |
