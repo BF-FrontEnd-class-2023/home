@@ -1,5 +1,7 @@
 # Hi, I'm Rahatab Hassan
 
+![Rahatab](./img/rahatab.png)
+
 ## Senior Engineer
 
 Extensive experience “+14 Years” on various Disciplines throughout different
@@ -15,14 +17,14 @@ decision-making.
 - Cairo University, Egypt
   - September 2003 – December 2008 - GPA 3.5
 
-### Areas of Expertise
+## Areas of Expertise
 
 1. Strategic Planning
 2. Leadership
 3. Problem Solving
 4. Team Work
 
-### Languages
+## Languages
 
 | English | Arabic | French   |
 | ------- | ------ | -------- |
