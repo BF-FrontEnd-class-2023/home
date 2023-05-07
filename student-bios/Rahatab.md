@@ -8,7 +8,7 @@ Proven success records in Leading complex Work streams, Skilled at identifying
 potential opportunities for growth via strategic planning and factual
 decision-making.
 
-# Background Education
+## Background Education
 
 ## Bachelor’s Degree in Chemical Engineering
 
@@ -27,5 +27,3 @@ decision-making.
 | English | Arabic | French   |
 | ------- | ------ | -------- |
 | Fluent  | Fluent | Begineer |
-
-
