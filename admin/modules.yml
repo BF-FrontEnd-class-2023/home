@@ -26,7 +26,7 @@ path:
     description: >-
       Learn to read small programs, and to write code that other people can
       understand.
-    url: https://github.com/hackyourfuturebelgium/bf-workflows
+    url: https://github.com/HackYourFutureBelgium/bf-welcome-to-js
     weeks: 3
     milestone: 4
     state: open

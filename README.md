@@ -66,7 +66,7 @@ Practice collaboratively planning and developing HTML/CSS websites.
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
-### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/bf-workflows): 3 weeks
+### [4. Welcome to JS](https://github.com/HackYourFutureBelgium/bf-welcome-to-js): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
 > |
