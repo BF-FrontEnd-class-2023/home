@@ -35,7 +35,7 @@ path:
       Take a deep dive into JavaScript and explore some it's trickiest
       features.  Build your foundations now so later you can focus on the fun
       stuff.
-    url: https://github.com/hackyourfuturebelgium/bf-workflows
+    url: https://github.com/HackYourFutureBelgium/bf-inside-js
     weeks: 4
     milestone: 5
     state: open

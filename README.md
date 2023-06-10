@@ -78,7 +78,7 @@ Practice collaboratively planning and developing HTML/CSS websites.
 Learn to read small programs, and to write code that other people can
 understand.
 
-### [5. Inside JS](https://github.com/hackyourfuturebelgium/bf-workflows): 4 weeks
+### [5. Inside JS](https://github.com/HackYourFutureBelgium/bf-inside-js): 4 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
 > |
@@ -366,20 +366,6 @@ explore your first Frontend Framework.
 ![Rekhasriraman github activity](https://ghchart.rshah.org/Rekhasriraman)
 
 ![Rekhasriraman github stats](https://github-readme-stats.vercel.app/api?username=Rekhasriraman&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
-| <img src="./admin/assets/avatars/VladyslavHornitskyi.png" height="200px" width="200px" alt="VladyslavHornitskyi avatar" /> | <h3 id="VladyslavHornitskyi">Vladyslav</h3><br>[VladyslavHornitskyi](https://github.com/VladyslavHornitskyi) \| [home page](https://VladyslavHornitskyi.github.io) \| [bio](./student-bios/VladyslavHornitskyi.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3AVladyslavHornitskyi+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3AVladyslavHornitskyi+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3AVladyslavHornitskyi)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3AVladyslavHornitskyi+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3AVladyslavHornitskyi+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3AVladyslavHornitskyi+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3AVladyslavHornitskyi) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3AVladyslavHornitskyi) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3AVladyslavHornitskyi) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3AVladyslavHornitskyi) |
-| -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Vladyslav's github stats</summary>
-<br>
-
-![VladyslavHornitskyi github activity](https://ghchart.rshah.org/VladyslavHornitskyi)
-
-![VladyslavHornitskyi github stats](https://github-readme-stats.vercel.app/api?username=VladyslavHornitskyi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
