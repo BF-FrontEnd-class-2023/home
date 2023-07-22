@@ -102,7 +102,7 @@ your foundations now so later you can focus on the fun stuff.
 Explore problem solving in JavaScript, learn how to write and review solutions
 to JS coding challenges.
 
-### [7. Separation of Concerns](https://github.com/hackyourfuturebelgium/bf-workflows): 2 weeks
+### [7. Separation of Concerns](https://github.com/HackYourFutureBelgium/bf-separation-of-concerns): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
 > |
@@ -156,6 +156,20 @@ explore your first Frontend Framework.
 ![Abdul-MalikSardalov github activity](https://ghchart.rshah.org/Abdul-MalikSardalov)
 
 ![Abdul-MalikSardalov github stats](https://github-readme-stats.vercel.app/api?username=Abdul-MalikSardalov&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/bibhasingh.png" height="200px" width="200px" alt="bibhasingh avatar" /> | <h3 id="bibhasingh">Bibha</h3><br>[bibhasingh](https://github.com/bibhasingh) \| [home page](https://bibhasingh.github.io) \| [bio](./student-bios/bibhasingh.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3Abibhasingh+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3Abibhasingh+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3Abibhasingh)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Abibhasingh+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3Abibhasingh+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Abibhasingh+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3Abibhasingh) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3Abibhasingh) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3Abibhasingh) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3Abibhasingh) |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Bibha's github stats</summary>
+<br>
+
+![bibhasingh github activity](https://ghchart.rshah.org/bibhasingh)
+
+![bibhasingh github stats](https://github-readme-stats.vercel.app/api?username=bibhasingh&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
@@ -226,6 +240,20 @@ explore your first Frontend Framework.
 ![iradukundajp github activity](https://ghchart.rshah.org/iradukundajp)
 
 ![iradukundajp github stats](https://github-readme-stats.vercel.app/api?username=iradukundajp&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/johnedelbi.png" height="200px" width="200px" alt="johnedelbi avatar" /> | <h3 id="johnedelbi">John</h3><br>[johnedelbi](https://github.com/johnedelbi) \| [home page](https://johnedelbi.github.io) \| [bio](./student-bios/johnedelbi.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3Ajohnedelbi+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3Ajohnedelbi+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3Ajohnedelbi)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Ajohnedelbi+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3Ajohnedelbi+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Ajohnedelbi+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3Ajohnedelbi) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3Ajohnedelbi) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3Ajohnedelbi) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3Ajohnedelbi) |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>John's github stats</summary>
+<br>
+
+![johnedelbi github activity](https://ghchart.rshah.org/johnedelbi)
+
+![johnedelbi github stats](https://github-readme-stats.vercel.app/api?username=johnedelbi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">

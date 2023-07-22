@@ -51,7 +51,7 @@ path:
     description: >-
       Learn how to break down interactive web pages into clear tasks that can be
       shared divided across team.
-    url: https://github.com/hackyourfuturebelgium/bf-workflows
+    url: https://github.com/HackYourFutureBelgium/bf-separation-of-concerns
     weeks: 2
     milestone: 7
     state: open
