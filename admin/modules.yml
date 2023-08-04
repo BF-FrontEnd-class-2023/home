@@ -59,7 +59,7 @@ path:
     description: >-
       Learn how the JavaScript event loop works and how you can use API data in
       your websites.
-    url: https://github.com/hackyourfuturebelgium/bf-workflows
+    url: https://github.com/HackYourFutureBelgium/bf-asynchronous-programming
     weeks: 3
     milestone: 8
     state: open

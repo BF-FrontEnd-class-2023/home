@@ -114,7 +114,7 @@ to JS coding challenges.
 Learn how to break down interactive web pages into clear tasks that can be
 shared divided across team.
 
-### [8. Asynchronous Programming](https://github.com/hackyourfuturebelgium/bf-workflows): 3 weeks
+### [8. Asynchronous Programming](https://github.com/HackYourFutureBelgium/bf-asynchronous-programming): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Acheck-in)
 > |
