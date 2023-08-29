@@ -67,7 +67,7 @@ path:
     description: >-
       Practice developing Single Page Apps built from reusable UI components,
       and explore your first Frontend Framework.
-    url: https://github.com/hackyourfuturebelgium/bf-workflows
+    url: https://github.com/HackYourFutureBelgium/bf-component-based-design
     weeks: 3
     milestone: 9
     state: open

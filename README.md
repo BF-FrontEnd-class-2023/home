@@ -126,7 +126,7 @@ shared divided across team.
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
-### [9. Component Based Design](https://github.com/hackyourfuturebelgium/bf-workflows): 3 weeks
+### [9. Component Based Design](https://github.com/HackYourFutureBelgium/bf-component-based-design): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"9.%20Component%20Based%20Design"+label%3Acheck-in)
 > |
