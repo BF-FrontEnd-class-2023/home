@@ -1,4 +1,4 @@
-# Hi, my name is Cristobal Lopez
+# Hi, my name is Cris
 
 ## [An enthusiastic and motivated person]
 
@@ -22,7 +22,5 @@ PHP.
 
 > #### _"I am someone who likes trying and trying until a goal is accomplished"_
 
-Find me on
-[**Linkedin**](https://www.linkedin.com/in/cristobal-lopez-354a09259/) or see
-all my work by checking my
-[repositories](https://github.com/cristobal-lopez?tab=repositories).
+See all my work by checking my
+[repositories](https://github.com/cris-ls?tab=repositories).
