@@ -1,5 +1,7 @@
 - name: Abdul-Malik
   user: Abdul-MalikSardalov
+- name: Bibha
+  user: bibhasingh
 - name: Cris
   user: cris-ls
 - name: Ervin
@@ -10,12 +12,12 @@
   user: himanshisaxena
 - name: Jean Paul
   user: iradukundajp
+- name: John
+  user: johnedelbi
 - name: Inna
   user: inna9Z
 - name: Iryna
   user: IrynaSobetska
-- name: Karol
-  user: karol10cano
 - name: khalid
   user: khalidkhan1212
 - name: komal
@@ -26,13 +28,5 @@
   user: Mileenka
 - name: Preethi
   user: PreethiTapati
-- name: Rahatab
-  user: Rahatab
-- name: Rahwa
-  user: Rahwakinfe
 - name: Rekha
   user: Rekhasriraman
-- name: Vladyslav
-  user: VladyslavHornitskyi
-- name: Zahira
-  user: ZahiraBella

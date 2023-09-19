@@ -55,7 +55,7 @@ Learn the workflows you need to develop individually and in a group.
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
-### [3. HTML & CSS](https://github.com/hackyourfuturebelgium/bf-workflows): 1 week
+### [3. HTML & CSS](https://github.com/HackYourFutureBelgium/bf-html-and-css): 1 week
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"3.%20HTML%20%26%20CSS"+label%3Acheck-in)
 > |
@@ -66,7 +66,7 @@ Practice collaboratively planning and developing HTML/CSS websites.
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
-### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/bf-workflows): 3 weeks
+### [4. Welcome to JS](https://github.com/HackYourFutureBelgium/bf-welcome-to-js): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
 > |
@@ -78,7 +78,7 @@ Practice collaboratively planning and developing HTML/CSS websites.
 Learn to read small programs, and to write code that other people can
 understand.
 
-### [5. Inside JS](https://github.com/hackyourfuturebelgium/bf-workflows): 4 weeks
+### [5. Inside JS](https://github.com/HackYourFutureBelgium/bf-inside-js): 4 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
 > |
@@ -90,7 +90,7 @@ understand.
 Take a deep dive into JavaScript and explore some it's trickiest features. Build
 your foundations now so later you can focus on the fun stuff.
 
-### [6. Behavior, Strategy, Implementation](https://github.com/hackyourfuturebelgium/bf-workflows): 2 weeks
+### [6. Behavior, Strategy, Implementation](https://github.com/HackYourFutureBelgium/bf-behavior-strategy-implementation): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
 > |
@@ -102,7 +102,7 @@ your foundations now so later you can focus on the fun stuff.
 Explore problem solving in JavaScript, learn how to write and review solutions
 to JS coding challenges.
 
-### [7. Separation of Concerns](https://github.com/hackyourfuturebelgium/bf-workflows): 2 weeks
+### [7. Separation of Concerns](https://github.com/HackYourFutureBelgium/bf-separation-of-concerns): 2 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
 > |
@@ -114,7 +114,7 @@ to JS coding challenges.
 Learn how to break down interactive web pages into clear tasks that can be
 shared divided across team.
 
-### [8. Asynchronous Programming](https://github.com/hackyourfuturebelgium/bf-workflows): 3 weeks
+### [8. Asynchronous Programming](https://github.com/HackYourFutureBelgium/bf-asynchronous-programming): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Acheck-in)
 > |
@@ -126,7 +126,7 @@ shared divided across team.
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
-### [9. Component Based Design](https://github.com/hackyourfuturebelgium/bf-workflows): 3 weeks
+### [9. Component Based Design](https://github.com/HackYourFutureBelgium/bf-component-based-design): 3 weeks
 
 > [check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=milestone%3A"9.%20Component%20Based%20Design"+label%3Acheck-in)
 > |
@@ -160,6 +160,7 @@ explore your first Frontend Framework.
 </details>
 <hr style="width:60%;align:center">
 
+
 | <img src="./admin/assets/avatars/cris.png" height="200px" width="200px" alt="cris avatar" /> | <h3 id="cris">Cris</h3><br>[cris](https://github.com/cris-ls) \| [home page](https://github.com/cris-ls) \| [bio](./student-bios/cris-ls.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3Acris-ls+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3Acris-ls+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3Acris-ls)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Acris-ls+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3Acris-ls+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Acris-ls+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3Acris-ls) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3Acris-ls) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3Acris-ls) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3Acris-ls) |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
@@ -168,6 +169,31 @@ explore your first Frontend Framework.
 <br>
 
 ![cris-ls github activity](https://ghchart.rshah.org/cris-ls)
+
+=======
+| <img src="./admin/assets/avatars/bibhasingh.png" height="200px" width="200px" alt="bibhasingh avatar" /> | <h3 id="bibhasingh">Bibha</h3><br>[bibhasingh](https://github.com/bibhasingh) \| [home page](https://bibhasingh.github.io) \| [bio](./student-bios/bibhasingh.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3Abibhasingh+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3Abibhasingh+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3Abibhasingh)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Abibhasingh+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3Abibhasingh+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Abibhasingh+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3Abibhasingh) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3Abibhasingh) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3Abibhasingh) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3Abibhasingh) |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Bibha's github stats</summary>
+<br>
+
+![bibhasingh github activity](https://ghchart.rshah.org/bibhasingh)
+
+![bibhasingh github stats](https://github-readme-stats.vercel.app/api?username=bibhasingh&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/cris-ls.png" height="200px" width="200px" alt="cris-ls avatar" /> | <h3 id="cris-ls">Cris</h3><br>[cris-ls](https://github.com/cris-ls) \| [home page](https://cris-ls.github.io) \| [bio](./student-bios/cris-ls.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3Acris-ls+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3Acris-ls+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3Acris-ls)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Acris-ls+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3Acris-ls+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Acris-ls+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3Acris-ls) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3Acris-ls) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3Acris-ls) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3Acris-ls) |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Cris's github stats</summary>
+<br>
+
+![cris-ls github activity](https://ghchart.rshah.org/cris-ls)
+
 
 ![cris-ls github stats](https://github-readme-stats.vercel.app/api?username=cris-ls&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
@@ -230,6 +256,20 @@ explore your first Frontend Framework.
 </details>
 <hr style="width:60%;align:center">
 
+| <img src="./admin/assets/avatars/johnedelbi.png" height="200px" width="200px" alt="johnedelbi avatar" /> | <h3 id="johnedelbi">John</h3><br>[johnedelbi](https://github.com/johnedelbi) \| [home page](https://johnedelbi.github.io) \| [bio](./student-bios/johnedelbi.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3Ajohnedelbi+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3Ajohnedelbi+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3Ajohnedelbi)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Ajohnedelbi+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3Ajohnedelbi+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Ajohnedelbi+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3Ajohnedelbi) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3Ajohnedelbi) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3Ajohnedelbi) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3Ajohnedelbi) |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>John's github stats</summary>
+<br>
+
+![johnedelbi github activity](https://ghchart.rshah.org/johnedelbi)
+
+![johnedelbi github stats](https://github-readme-stats.vercel.app/api?username=johnedelbi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
 | <img src="./admin/assets/avatars/inna9Z.png" height="200px" width="200px" alt="inna9Z avatar" /> | <h3 id="inna9Z">Inna</h3><br>[inna9Z](https://github.com/inna9Z) \| [home page](https://inna9Z.github.io) \| [bio](./student-bios/inna9Z.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3Ainna9Z+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3Ainna9Z+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3Ainna9Z)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Ainna9Z+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3Ainna9Z+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Ainna9Z+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3Ainna9Z) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3Ainna9Z) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3Ainna9Z) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3Ainna9Z) |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
@@ -254,20 +294,6 @@ explore your first Frontend Framework.
 ![IrynaSobetska github activity](https://ghchart.rshah.org/IrynaSobetska)
 
 ![IrynaSobetska github stats](https://github-readme-stats.vercel.app/api?username=IrynaSobetska&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
-| <img src="./admin/assets/avatars/karol10cano.png" height="200px" width="200px" alt="karol10cano avatar" /> | <h3 id="karol10cano">Karol</h3><br>[karol10cano](https://github.com/karol10cano) \| [home page](https://karol10cano.github.io) \| [bio](./student-bios/karol10cano.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3Akarol10cano+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3Akarol10cano+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3Akarol10cano)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Akarol10cano+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3Akarol10cano+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3Akarol10cano+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3Akarol10cano) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3Akarol10cano) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3Akarol10cano) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3Akarol10cano) |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Karol's github stats</summary>
-<br>
-
-![karol10cano github activity](https://ghchart.rshah.org/karol10cano)
-
-![karol10cano github stats](https://github-readme-stats.vercel.app/api?username=karol10cano&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
@@ -342,34 +368,6 @@ explore your first Frontend Framework.
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/Rahatab.png" height="200px" width="200px" alt="Rahatab avatar" /> | <h3 id="Rahatab">Rahatab</h3><br>[Rahatab](https://github.com/Rahatab) \| [home page](https://Rahatab.github.io) \| [bio](./student-bios/Rahatab.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3ARahatab+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3ARahatab+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3ARahatab)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3ARahatab+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3ARahatab+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3ARahatab+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3ARahatab) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3ARahatab) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3ARahatab) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3ARahatab) |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Rahatab's github stats</summary>
-<br>
-
-![Rahatab github activity](https://ghchart.rshah.org/Rahatab)
-
-![Rahatab github stats](https://github-readme-stats.vercel.app/api?username=Rahatab&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
-| <img src="./admin/assets/avatars/Rahwakinfe.png" height="200px" width="200px" alt="Rahwakinfe avatar" /> | <h3 id="Rahwakinfe">Rahwa</h3><br>[Rahwakinfe](https://github.com/Rahwakinfe) \| [home page](https://Rahwakinfe.github.io) \| [bio](./student-bios/Rahwakinfe.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3ARahwakinfe+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3ARahwakinfe+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3ARahwakinfe)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3ARahwakinfe+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3ARahwakinfe+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3ARahwakinfe+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3ARahwakinfe) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3ARahwakinfe) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3ARahwakinfe) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3ARahwakinfe) |
-| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Rahwa's github stats</summary>
-<br>
-
-![Rahwakinfe github activity](https://ghchart.rshah.org/Rahwakinfe)
-
-![Rahwakinfe github stats](https://github-readme-stats.vercel.app/api?username=Rahwakinfe&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
 | <img src="./admin/assets/avatars/Rekhasriraman.png" height="200px" width="200px" alt="Rekhasriraman avatar" /> | <h3 id="Rekhasriraman">Rekha</h3><br>[Rekhasriraman](https://github.com/Rekhasriraman) \| [home page](https://Rekhasriraman.github.io) \| [bio](./student-bios/Rekhasriraman.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3ARekhasriraman+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3ARekhasriraman+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3ARekhasriraman)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3ARekhasriraman+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3ARekhasriraman+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3ARekhasriraman+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3ARekhasriraman) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3ARekhasriraman) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3ARekhasriraman) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3ARekhasriraman) |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
@@ -380,34 +378,6 @@ explore your first Frontend Framework.
 ![Rekhasriraman github activity](https://ghchart.rshah.org/Rekhasriraman)
 
 ![Rekhasriraman github stats](https://github-readme-stats.vercel.app/api?username=Rekhasriraman&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
-| <img src="./admin/assets/avatars/VladyslavHornitskyi.png" height="200px" width="200px" alt="VladyslavHornitskyi avatar" /> | <h3 id="VladyslavHornitskyi">Vladyslav</h3><br>[VladyslavHornitskyi](https://github.com/VladyslavHornitskyi) \| [home page](https://VladyslavHornitskyi.github.io) \| [bio](./student-bios/VladyslavHornitskyi.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3AVladyslavHornitskyi+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3AVladyslavHornitskyi+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3AVladyslavHornitskyi)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3AVladyslavHornitskyi+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3AVladyslavHornitskyi+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3AVladyslavHornitskyi+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3AVladyslavHornitskyi) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3AVladyslavHornitskyi) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3AVladyslavHornitskyi) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3AVladyslavHornitskyi) |
-| -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Vladyslav's github stats</summary>
-<br>
-
-![VladyslavHornitskyi github activity](https://ghchart.rshah.org/VladyslavHornitskyi)
-
-![VladyslavHornitskyi github stats](https://github-readme-stats.vercel.app/api?username=VladyslavHornitskyi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
-| <img src="./admin/assets/avatars/ZahiraBella.png" height="200px" width="200px" alt="ZahiraBella avatar" /> | <h3 id="ZahiraBella">Zahira</h3><br>[ZahiraBella](https://github.com/ZahiraBella) \| [home page](https://ZahiraBella.github.io) \| [bio](./student-bios/ZahiraBella.md)<br>[help wanted](https://github.com/BF-frontEnd-class/home/discussions/categories/help-wanted?discussions_q=author%3AZahiraBella+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=author%3AZahiraBella+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/BF-frontEnd-class/home/discussions/categories/question?discussions_q=includes%3AZahiraBella)<br>[check-ins](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3AZahiraBella+label%3Acheck-in) \| [deliverables](https://github.com/BF-frontEnd-class/home/projects/1?card_filter_query=assignee%3AZahiraBella+label%3Adeliverable) \| [retros](https://github.com/BF-frontEnd-class/home/issues/?q=assignee%3AZahiraBella+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/BF-frontEnd-class/home/issues?q=author%3AZahiraBella) \| [assigned](https://github.com/BF-frontEnd-class/home/issues?q=assignee%3AZahiraBella) \| [commented](https://github.com/BF-frontEnd-class/home/issues?q=commenter%3AZahiraBella) \| [mentioned](https://github.com/BF-frontEnd-class/home/issues?q=mentions%3AZahiraBella) |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-<details>
-<summary>Zahira's github stats</summary>
-<br>
-
-![ZahiraBella github activity](https://ghchart.rshah.org/ZahiraBella)
-
-![ZahiraBella github stats](https://github-readme-stats.vercel.app/api?username=ZahiraBella&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
